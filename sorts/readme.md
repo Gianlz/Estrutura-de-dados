@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projeto de Comparação de Algoritmos de Ordenação</title>
+
 </head>
 <body>
     <h1>Projeto de Comparação de Algoritmos de Ordenação</h1>

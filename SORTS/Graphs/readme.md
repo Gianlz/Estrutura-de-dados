@@ -15,7 +15,7 @@ pip install pandas plotly
 4. Crie um novo arquivo Python e importe as bibliotecas necessárias:
 ```python
 import pandas as pd
-import plotly.graph_objects as go ```
+import plotly.graph_objects as go 
 
 5. Atualize os dados relacionados aos algoritmos de ordenação com as informações corretas, incluindo o número de comparações, o número de trocas e o tempo de execução.
 

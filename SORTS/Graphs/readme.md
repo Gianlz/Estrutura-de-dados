@@ -36,10 +36,11 @@ df = pd.DataFrame(data)
 ```
 
 7. Utilize a biblioteca Plotly para criar gráficos de pizza com base nos dados do DataFrame. Por exemplo, para criar um gráfico de pizza para o total de comparações:
-
+```
 fig1 = go.Figure(data=[go.Pie(labels=df['Algoritmo'], values=df['Total de Comparações'], textinfo='label+percent', hole=0.3)])
 fig1.update_layout(title='Total de Comparações por Algoritmo')
 fig1.show()
+```
 
 8. Repita o passo 7 para criar gráficos de pizza para o total de trocas e tempo de execução.
 

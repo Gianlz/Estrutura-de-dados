@@ -7,8 +7,9 @@ Este projeto apresenta uma análise de vários algoritmos de ordenação. A segu
 1. Certifique-se de ter o Python instalado em seu sistema.
 
 2. Instale as bibliotecas necessárias executando o seguinte comando em seu terminal ou prompt de comando:
-
+```
 pip install pandas plotly
+```
 
 3. Abra um editor de código ou ambiente de desenvolvimento Python.
 

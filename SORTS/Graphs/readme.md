@@ -26,14 +26,14 @@ import plotly.graph_objects as go
 6. Crie um DataFrame usando a biblioteca Pandas para organizar os dados:
 
 
-
-data = {
+```data = {
     'Algoritmo': ['Bubble Sort', 'Insertion Sort', 'Selection Sort', 'Merge Sort', 'Quick Sort', 'Bucket Sort', 'Radix Sort'],
     'Total de Comparações': [0, 0, 0, 0, 0, 0, 0],
     'Total de Trocas': [0, 0, 0, 0, 0, 0, 0],
     'Tempo (ms)': [0, 0, 0, 0, 0, 0, 0]
 }
 df = pd.DataFrame(data)
+```
 
 7. Utilize a biblioteca Plotly para criar gráficos de pizza com base nos dados do DataFrame. Por exemplo, para criar um gráfico de pizza para o total de comparações:
 

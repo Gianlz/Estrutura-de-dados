@@ -25,8 +25,8 @@ import plotly.graph_objects as go
 
 6. Crie um DataFrame usando a biblioteca Pandas para organizar os dados:
 
-
-```data = {
+```
+data = {
     'Algoritmo': ['Bubble Sort', 'Insertion Sort', 'Selection Sort', 'Merge Sort', 'Quick Sort', 'Bucket Sort', 'Radix Sort'],
     'Total de Comparações': [0, 0, 0, 0, 0, 0, 0],
     'Total de Trocas': [0, 0, 0, 0, 0, 0, 0],

@@ -13,13 +13,19 @@ pip install pandas plotly
 3. Abra um editor de código ou ambiente de desenvolvimento Python.
 
 4. Crie um novo arquivo Python e importe as bibliotecas necessárias:
+
+
 ```python
 import pandas as pd
 import plotly.graph_objects as go 
+```
+
 
 5. Atualize os dados relacionados aos algoritmos de ordenação com as informações corretas, incluindo o número de comparações, o número de trocas e o tempo de execução.
 
 6. Crie um DataFrame usando a biblioteca Pandas para organizar os dados:
+
+
 
 data = {
     'Algoritmo': ['Bubble Sort', 'Insertion Sort', 'Selection Sort', 'Merge Sort', 'Quick Sort', 'Bucket Sort', 'Radix Sort'],
